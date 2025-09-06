@@ -44,4 +44,4 @@ python TwistDAN_score.py --input_file molecules.csv --output_file predictions.cs
 🌐 Web Server
 For instant, no-setup predictions, visit our public web server. The server uses the same core TwistDAN model to provide fast and reliable results.
 
-URL: http://TwistDAN.denglab.org/
+URL: http://grsa.denglab.org/

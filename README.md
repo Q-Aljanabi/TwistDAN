@@ -38,6 +38,9 @@ For quick predictions on new molecular structures without a full training pipeli
 
 Bash
 
+The Datasets can be access via https://drive.google.com/drive/folders/1y5Y6RKR5WIsqzHuUo__CNbsegR4_lNQ8?usp=sharing
+Bash
+
 python TwistDAN_score.py --input_smiles "CCO"
 # Or from a file
 python TwistDAN_score.py --input_file molecules.csv --output_file predictions.csv
